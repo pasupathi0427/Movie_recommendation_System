@@ -32,7 +32,7 @@ To access the full code and Colab file for the movie recommendation system and o
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
-- Email: pasupathi@gmail.com
+- Email: pasupathi.g2001@gmail.com
 - GitHub: pasupathi0427
   
 Happy recommending movies!
