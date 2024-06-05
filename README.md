@@ -18,7 +18,7 @@ Feel free to explore the recommendations and provide feedback on the system's pe
 ## Contributing
 If you're interested in contributing to the development of the Movie Recommendation System, you can clone this repository and start building upon the existing codebase. Here's how you can get started:
 - Clone the repository to your local machine:
-  ` git clone https://github.com/pasupathi0427/Movie_recommendation_System.git `
+- ` git clone https://github.com/pasupathi0427/Movie_recommendation_System.git `
 - Set up your development environment and make any necessary changes or improvements.
 - Once you're ready, submit a pull request with your changes for review.
 
@@ -32,8 +32,9 @@ To access the full code and Colab file for the movie recommendation system and o
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
-Email: pasupathi@gmail.com
-GitHub: pasupathi0427
+- Email: pasupathi@gmail.com
+- GitHub: pasupathi0427
+- 
 Happy recommending movies!
 
 
