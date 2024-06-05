@@ -34,7 +34,7 @@ If you have any questions, suggestions, or feedback, feel free to reach out:
 
 - Email: pasupathi@gmail.com
 - GitHub: pasupathi0427
-- 
+  
 Happy recommending movies!
 
 
